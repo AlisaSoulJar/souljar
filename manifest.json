@@ -1,0 +1,10 @@
+{
+  "backup_date": "2026-03-20T20:35:44.250237",
+  "raw_size": 337322,
+  "compressed_size": 117861,
+  "parts": [
+    "akasha_soul.part001"
+  ],
+  "compression": "gzip-6",
+  "node": "SERVER"
+}
